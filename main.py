@@ -59,6 +59,7 @@ for i in range(N):
 Q = []
 for i in range(10):
     Q.append([])
+print("짜증나")
 
 # 실행 및 시간 측정
 start_time = time.time()
